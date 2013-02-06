@@ -24,3 +24,8 @@ C:\Documents and Settings\Xsanic\My Documents\GitHub\UserAgent\bin\Class_UserAge
 C:\Documents and Settings\Xsanic\My Documents\GitHub\UserAgent\obj\Debug\ResolveAssemblyReference.cache
 C:\Documents and Settings\Xsanic\My Documents\GitHub\UserAgent\obj\Debug\Class_UserAgent.dll
 C:\Documents and Settings\Xsanic\My Documents\GitHub\UserAgent\obj\Debug\Class_UserAgent.pdb
+C:\Users\Xsanic\Documents\GitHub\UserAgent\bin\Class_UserAgent.dll
+C:\Users\Xsanic\Documents\GitHub\UserAgent\bin\Class_UserAgent.pdb
+C:\Users\Xsanic\Documents\GitHub\UserAgent\obj\Debug\Class_UserAgent.csprojResolveAssemblyReference.cache
+C:\Users\Xsanic\Documents\GitHub\UserAgent\obj\Debug\Class_UserAgent.dll
+C:\Users\Xsanic\Documents\GitHub\UserAgent\obj\Debug\Class_UserAgent.pdb

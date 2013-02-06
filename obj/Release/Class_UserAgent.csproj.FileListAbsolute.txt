@@ -19,3 +19,7 @@ E:\Dropbox\Development Work\12-11-04 MultiClass-GotWoody\Class_UserAgent\bin\mys
 E:\Dropbox\Development Work\12-11-04 MultiClass-GotWoody\Class_UserAgent\obj\Release\ResolveAssemblyReference.cache
 E:\Dropbox\Development Work\12-11-04 MultiClass-GotWoody\Class_UserAgent\obj\Release\Class_UserAgent.dll
 E:\Dropbox\Development Work\12-11-04 MultiClass-GotWoody\Class_UserAgent\obj\Release\Class_UserAgent.pdb
+C:\Users\Xsanic\Documents\GitHub\UserAgent\bin\Class_UserAgent.dll
+C:\Users\Xsanic\Documents\GitHub\UserAgent\bin\Class_UserAgent.pdb
+C:\Users\Xsanic\Documents\GitHub\UserAgent\obj\Release\Class_UserAgent.dll
+C:\Users\Xsanic\Documents\GitHub\UserAgent\obj\Release\Class_UserAgent.pdb
