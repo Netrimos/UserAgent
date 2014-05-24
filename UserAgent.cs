@@ -123,9 +123,9 @@ namespace Class_UserAgent
         }
 
         public void writeAgentToDb() {
-            MySqlConnection conn = new MySqlConnection("Server=192.168.210.101;Database=Users;Uid=sa;Pwd=WencyLee1699");
-            //MySqlConnection conn = new MySqlConnection("Server=10.0.1.210;Database=User;Uid=root;Pwd=");
-            //MySqlConnection conn = new MySqlConnection("Server=192.168.210.126;Database=Users;Uid=sa;Pwd=wlee1699");
+            MySqlConnection conn = new MySqlConnection("Server=192.168.210.101;Database=Users;Uid=sa;Pwd=pass");
+            //MySqlConnection conn = new MySqlConnection("Server=10.0.1.210;Database=User;Uid=root;Pwd=pass");
+            //MySqlConnection conn = new MySqlConnection("Server=192.168.210.126;Database=Users;Uid=sa;Pwd=pass");
             MySqlCommand cmd;
             
             
